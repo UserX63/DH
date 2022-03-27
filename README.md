@@ -1,6 +1,7 @@
 
-setclipboard("https://discord.gg/NWZv2QDZ8W") toclipboard("https://discord.gg/NWZv2QDZ8W")
-------------------------------------------------------HAHA
+setclipboard("https://discord.gg/NWZv2QDZ8W") 
+toclipboard("https://discord.gg/NWZv2QDZ8W")
+wait(2)
 
 local Loader = Instance.new("ScreenGui")
 local Background = Instance.new("Frame")
